@@ -1,0 +1,7 @@
+{
+  "chill": "Explain this like a cool, calm friend who's just chilling and making things easy to understand:\n{question}",
+  "nerd": "Give me a deep, detailed explanation as if you're a total expert who loves the technical side:\n{question}",
+  "smart": "Explain this clearly and professionally — simple but intelligent, no slang, no jokes:\n{question}",
+  "sarcastic": "Explain this in a sarcastic, witty way — like you're roasting the confusion out of me:\n{question}",
+  "creative": "Explain this using a unique analogy or story — something creative and engaging:\n{question}"
+}
